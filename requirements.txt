@@ -1,0 +1,8 @@
+fastapi
+pydantic_settings
+sqlalchemy
+psycopg
+redis
+cryptography
+apscheduler
+uvicorn
